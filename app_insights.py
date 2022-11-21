@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import logging
 
 from opencensus.stats import aggregation as aggregation_module

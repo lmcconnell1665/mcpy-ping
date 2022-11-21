@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import logging
 import os
 from app_insights import *
